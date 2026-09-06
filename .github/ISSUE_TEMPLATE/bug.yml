@@ -1,0 +1,58 @@
+name: Hata bildirimi
+description: Antigravity Türkçe Manager veya Türkçe yama ile ilgili bir hata bildirin.
+title: "[Hata] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Teşekkürler. Lütfen kişisel veri, erişim anahtarı veya özel proje dosyası paylaşmayın.
+  - type: input
+    id: manager_version
+    attributes:
+      label: Manager sürümü
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: input
+    id: antigravity_version
+    attributes:
+      label: Antigravity sürümü
+      placeholder: 2.12.2
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Sorun alanı
+      options:
+        - Türkçe yama kurulumu
+        - Otomatik koruma
+        - Güncelleme
+        - Geri yükleme
+        - MCP / Beceriler
+        - Kısayollar / menüler
+        - Manager arayüzü
+        - Diğer
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Sorun
+      description: Ne oldu, ne olmasını bekliyordunuz?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Tekrarlama adımları
+      placeholder: |
+        1. Manager'ı açtım
+        2. ...
+        3. ...
+  - type: textarea
+    id: logs
+    attributes:
+      label: Güvenli log / ekran görüntüsü
+      description: Hassas bilgileri silerek paylaşın.
