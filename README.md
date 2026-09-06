@@ -35,7 +35,9 @@ En güncel sürüm için **Releases** bölümünü kullanın:
 **`Antigravity-Turkce-Setup.exe`** — önerilen kurulum paketi  
 **`AntigravityTurkceManager.exe`** — taşınabilir sürüm
 
-> Windows SmartScreen ilk yayınlarda bilinmeyen geliştirici uyarısı gösterebilir. Kod imzalama sertifikası eklendiğinde Authenticode doğrulaması yayın zincirine dahil edilecektir.
+> Windows dışı dağıtımlarda Authenticode kod imzası kullanılacaktır. Yeni imza/yayıncı kimlikleri SmartScreen itibarı kazanana kadar ilk indirmelerde uyarı görülebilir; aynı doğrulanmış yayıncı kimliğiyle tüm sürümlerin imzalanması bu itibarı zaman içinde korumaya yardımcı olur.
+
+Kod imzalama ve yayın güvenliği planı: [CODE_SIGNING.md](CODE_SIGNING.md)
 
 ## Kullanım
 
