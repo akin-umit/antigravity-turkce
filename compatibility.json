@@ -1,0 +1,16 @@
+{
+  "product": "Antigravity Türkçe Manager",
+  "managerVersion": "1.0.0",
+  "patchEngineVersion": "10.0",
+  "releaseChannel": "stable",
+  "platform": "windows",
+  "testedAntigravityVersions": [
+    "2.12.2"
+  ],
+  "lastUpdated": "2026-09-06",
+  "developer": {
+    "name": "Ümit Akın",
+    "github": "akin-umit",
+    "instagram": "umit.aakinn"
+  }
+}
