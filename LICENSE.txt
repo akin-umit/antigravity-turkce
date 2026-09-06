@@ -1,0 +1,23 @@
+ANTIGRAVITY TÜRKÇE MANAGER — SON KULLANICI LİSANSI
+Copyright © 2026 Ümit Akın. Tüm hakları saklıdır.
+
+1. İZİN VERİLEN KULLANIM
+Bu yazılım, son kullanıcı tarafından kişisel veya kurum içi kullanım amacıyla resmi dağıtım kanalından indirilebilir, kurulabilir ve kullanılabilir.
+
+2. YASAKLAR
+Yazılımın veya herhangi bir parçasının izinsiz olarak değiştirilmesi, türev sürümünün yayımlanması, başka ad altında dağıtılması, yeniden paketlenmesi, kaynak kodunun dağıtılması, geliştirici/telif bilgilerinin kaldırılması veya değiştirilmesi ve yazılımın tek başına ticari olarak yeniden satılması yasaktır.
+
+3. YENİDEN DAĞITIM
+Kullanıcıların resmi GitHub sayfasına veya resmi Release sayfasına bağlantı vermesi serbesttir. İkili dosyanın değiştirilmiş veya yeniden paketlenmiş kopyalarının üçüncü taraf kanallarda dağıtılması izin gerektirir.
+
+4. TERSİNE MÜHENDİSLİK
+Yürürlükteki hukukun açıkça izin verdiği zorunlu istisnalar dışında yazılımın kaynak kodunu elde etmeye yönelik tersine mühendislik, decompile veya disassembly işlemleri yasaktır.
+
+5. GARANTİ REDDİ
+Yazılım "olduğu gibi" sunulur. Geliştirici, yazılımın kesintisiz veya her Antigravity sürümüyle sürekli uyumlu olacağını garanti etmez. Manager, işlem öncesi yedek ve geri dönüş mekanizmaları sağlamaya çalışır.
+
+6. ÜÇÜNCÜ TARAF ÜRÜNLER
+Antigravity ve Google adları ilgili hak sahiplerine aittir. Bu yazılım bağımsız bir yerelleştirme aracıdır ve Google tarafından yayımlanmış veya onaylanmış resmî bir ürün değildir.
+
+7. TELİF
+Yazılımın özgün kodu, kullanıcı arayüzü, patch/yama motoru, güncelleme mantığı ve özgün Türkçe yerelleştirme çalışmaları üzerindeki haklar Ümit Akın'a aittir; üçüncü taraf yazılımlara ait haklar kendi sahiplerinde kalır.
