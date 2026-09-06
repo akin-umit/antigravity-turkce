@@ -1,0 +1,34 @@
+name: Çeviri eksik / hatalı
+description: İngilizce kalan veya daha iyi çevrilebilecek bir arayüz metnini bildirin.
+title: "[Çeviri] "
+labels: []
+body:
+  - type: input
+    id: antigravity_version
+    attributes:
+      label: Antigravity sürümü
+      placeholder: 2.12.2
+    validations:
+      required: true
+  - type: input
+    id: screen
+    attributes:
+      label: Ekran / bölüm
+      placeholder: Ayarlar > MCP, Proje > Kısayollar vb.
+    validations:
+      required: true
+  - type: textarea
+    id: original
+    attributes:
+      label: İngilizce kalan metin
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Önerilen Türkçe karşılık
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Ekran görüntüsü / ek bilgi
+      description: Varsa hassas bilgileri gizleyerek ekleyin.
