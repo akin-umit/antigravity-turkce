@@ -1,0 +1,47 @@
+name: Özellik önerisi
+description: Antigravity Türkçe Manager veya Türkçe yama için yeni bir özellik önerin.
+title: "[Öneri] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Öneriniz için teşekkürler. Lütfen kişisel veri, erişim anahtarı veya özel proje içeriği paylaşmayın.
+  - type: input
+    id: manager_version
+    attributes:
+      label: Manager sürümü
+      placeholder: 1.3.0
+  - type: dropdown
+    id: area
+    attributes:
+      label: Öneri alanı
+      options:
+        - Manager arayüzü
+        - Türkçe yama
+        - Güncelleme sistemi
+        - Yedek / kurtarma
+        - Otomatik koruma
+        - MCP / Beceriler
+        - Kısayollar / menüler
+        - GitHub entegrasyonu
+        - Diğer
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Özellik önerisi
+      description: Ne eklenmesini istiyorsunuz ve kullanıcıya ne fayda sağlayacak?
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Önerilen kullanım akışı
+      description: Varsa özelliğin nasıl çalışmasını beklediğinizi adım adım anlatın.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Ek bilgi / ekran görüntüsü
+      description: Varsa hassas bilgileri gizleyerek ekleyin.
