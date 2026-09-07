@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-07T09:00:00+03:00",
+  "announcements": [
+    {
+      "id": "welcome-live-feed",
+      "title": "Antigravity Türkçe canlı bilgi akışı hazır",
+      "message": "Manager, yeni sürüm notları ve duyuruları GitHub üzerinden gösterebilir.",
+      "level": "info",
+      "enabled": true
+    }
+  ],
+  "quickActions": [
+    {
+      "id": "open-releases",
+      "label": "Sürümleri Gör",
+      "action": "open_url",
+      "url": "https://github.com/akin-umit/antigravity-turkce/releases",
+      "enabled": true
+    }
+  ]
+}
