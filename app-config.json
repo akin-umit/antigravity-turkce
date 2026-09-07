@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-07T10:30:00+03:00",
+  "product": {
+    "name": "Antigravity Türkçe",
+    "managerName": "Antigravity Türkçe Manager",
+    "developer": "Ümit Akın"
+  },
+  "links": {
+    "github": "https://github.com/akin-umit/antigravity-turkce",
+    "releases": "https://github.com/akin-umit/antigravity-turkce/releases",
+    "issues": "https://github.com/akin-umit/antigravity-turkce/issues",
+    "bugReport": "https://github.com/akin-umit/antigravity-turkce/issues/new?template=bug.yml",
+    "translationReport": "https://github.com/akin-umit/antigravity-turkce/issues/new?template=translation.yml",
+    "featureRequest": "https://github.com/akin-umit/antigravity-turkce/issues/new?template=feature.yml",
+    "privacy": "https://github.com/akin-umit/antigravity-turkce/blob/main/PRIVACY.md",
+    "security": "https://github.com/akin-umit/antigravity-turkce/blob/main/SECURITY.md",
+    "support": "https://github.com/akin-umit/antigravity-turkce/blob/main/SUPPORT.md"
+  },
+  "microsoftStore": {
+    "storeId": "9PG25D8F9X1N",
+    "url": "https://apps.microsoft.com/detail/9PG25D8F9X1N",
+    "published": false,
+    "labelWhenPending": "Microsoft Store • Yakında",
+    "labelWhenPublished": "Microsoft Store'dan İndir"
+  },
+  "remoteContent": {
+    "feedUrl": "https://raw.githubusercontent.com/akin-umit/antigravity-turkce/main/ui-feed.json",
+    "compatibilityUrl": "https://raw.githubusercontent.com/akin-umit/antigravity-turkce/main/compatibility.json",
+    "checkAtStartup": true,
+    "refreshHours": 6,
+    "cacheFallback": true
+  },
+  "security": {
+    "allowArbitraryRemoteCode": false,
+    "allowedRemoteActions": [
+      "open_url",
+      "open_page",
+      "show_message",
+      "check_update"
+    ]
+  }
+}
