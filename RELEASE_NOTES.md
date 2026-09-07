@@ -1,15 +1,14 @@
-# Antigravity Türkçe Manager v1.0.0
+# Antigravity Türkçe Manager v1.3.1
 
-İlk genel kullanım sürümü hazır.
+İlk GitHub Releases kanalı yayına hazırlanmıştır.
 
-### İçerik
-- Tek tık Türkçe yama ve onarım
-- Premium Manager arayüzü
-- Antigravity 2.12.2 üzerinde doğrulandı
-- Sürüme özel otomatik yedek
-- Tek tık geri dönüş
-- Güncelleme sonrası otomatik koruma
-- MCP / Beceriler / Kısayollar / izin pencereleri Türkçe katmanı
-- GitHub üzerinden Manager güncelleme kontrolü
+### Bu yayın ne sağlar?
+- Manager içindeki GitHub bağlantı kontrolünün gerçek bir release kanalı üzerinden çalışmasını sağlar.
+- `compatibility.json`, `app-config.json` ve `ui-feed.json` yayın varlığı olarak eklenir.
+- Hata, çeviri ve özellik bildirim formları GitHub Issues üzerinden kullanılabilir.
+- Antigravity 2.12.2 + Türkçe Patch V10 uyumluluk bilgisi korunur.
+
+### Önemli
+Bu ilk bootstrap release, genel kullanıcıya dağıtılacak imzalı/Store kurulum paketi değildir. Windows Manager EXE paketi PC testleri tamamlandıktan sonra ayrı release asset olarak eklenecektir.
 
 **Yama Geliştiricisi: Ümit Akın**
